@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>137181257045-nl6a0vcl119d1vqqijov7k6mt7juct5k.apps.googleusercontent.com</string>
+	<string>CLIENT_ID from google account</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.137181257045-nl6a0vcl119d1vqqijov7k6mt7juct5k</string>
+	<string>REVERSED_CLIENT_ID from google account</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCF2lmih93Tp_8sNYn9tA1DbFaw1cKECD4</string>
+	<string>API_KEY from google account</string>
 	<key>GCM_SENDER_ID</key>
 	<string>137181257045</string>
 	<key>PLIST_VERSION</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:137181257045:ios:c4a0c4f1c5979c365a23dc</string>
+	<string>GOOGLE_APP_ID from google account</string>
 	<key>DATABASE_URL</key>
 	<string>https://chocoapp-f9f02.firebaseio.com</string>
 </dict>
